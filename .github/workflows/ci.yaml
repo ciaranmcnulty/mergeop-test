@@ -19,4 +19,4 @@ jobs:
         with:
           cache-from: "type=gha"
           cache-to: "type=gha,mode=max"
-          build-args: "ARGUMENT=1"
+          build-args: "ARGUMENT=2"
